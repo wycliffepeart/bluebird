@@ -1,4 +1,4 @@
-## Bluebird Java Application
+# Bluebird Java Application
 
 Bluebird is a desktop application base on a project that was given in my second year,
 semester three at the University of Technology. The aim of the project is to test our

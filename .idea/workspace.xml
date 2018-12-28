@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d212d620-4715-4a08-95c6-913ab35d0d35" name="Default Changelist" comment="" />
+    <list default="true" id="d212d620-4715-4a08-95c6-913ab35d0d35" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -66,13 +68,13 @@
         <counts>
           <entry key="dummy" value="97" />
           <entry key="java" value="6551" />
-          <entry key="md" value="836" />
+          <entry key="md" value="846" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="6551" />
-          <entry key="Markdown" value="836" />
+          <entry key="Markdown" value="846" />
           <entry key="PLAIN_TEXT" value="97" />
         </counts>
       </usages-collector>
@@ -156,8 +158,8 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="489">
-                <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+              <first_editor>
+                <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -256,13 +258,13 @@
         <option value="$PROJECT_DIR$/src/app/database/user/UserModel.java" />
         <option value="$PROJECT_DIR$/src/app/database/user/UserDatabase.java" />
         <option value="$PROJECT_DIR$/src/app/database/user/UserEntity.java" />
-        <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/src/app/controller/auth/RegistrationController.java" />
         <option value="$PROJECT_DIR$/src/app/controller/auth/AuthController.java" />
         <option value="$PROJECT_DIR$/src/support/Database.java" />
         <option value="$PROJECT_DIR$/src/app/database/user/UserTable.java" />
         <option value="$PROJECT_DIR$/src/app/controller/auth/LoginController.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/readme.md" />
       </list>
     </option>
   </component>
@@ -302,7 +304,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546031652530" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546031659633" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/vendor/sqlite-jdbc-3.23.1.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -384,12 +386,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1545973674855</updated>
-      <workItem from="1545973678398" duration="29415000" />
+      <workItem from="1545973678398" duration="29661000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29415000" />
+    <option name="totallyTimeSpent" value="29661000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -653,8 +655,8 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="489">
-            <caret line="30" column="1" lean-forward="true" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
+          <first_editor>
+            <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
